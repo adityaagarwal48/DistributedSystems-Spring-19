@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat May 04 19:14:18 EDT 2019
+0.baseType=DIRECTORY
+0.base=/Users/adityaagarwal/Documents/Spring 2019/DS/SimpleDynamo/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
